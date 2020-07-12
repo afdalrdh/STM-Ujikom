@@ -1,0 +1,23 @@
+::placeholder {
+    font-size: 12px;
+  }
+
+input.form-control.form-control-sm{
+  display: inline !important;
+  width: 192px !important;
+}
+
+select.form-control.form-control-sm{
+  display: inline-block !important;
+  width: 64px !important;
+  height: 31px !important;
+  padding: 0px !important;
+}
+
+html,body{
+  font-size: 14px;
+}
+
+label{
+  font-size: 14px !important;
+}
